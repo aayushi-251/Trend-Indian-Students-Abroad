@@ -1,0 +1,2 @@
+# Trend-Indian-Students-Abroad
+The project outlines the Trend of Indian students going abroad for higher studies. Data was collected using Google forms after surveying more than 100 students who are currently in their Bachelor's studying in various Indian Universities. The data was first preprocessed, followed by exploratory and cluster analysis. Deployed Logistic regression model for further predictions. Used Numpy, Pandas, Matplotlib, Seaborn, sklearn, statsmodel, scipy
